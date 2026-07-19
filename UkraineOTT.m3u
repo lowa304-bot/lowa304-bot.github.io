@@ -1,18 +1,32 @@
 #EXTM3U
 #EXTINF:0, 1+1 HD
+https://lowa304-bot.github.io/UkraineOTT/1/mono.m3u8
 #EXTINF:0, 2+2 HD
+https://lowa304-bot.github.io/UkraineOTT/2/mono.m3u8
 #EXTINF:0, ТЕТ HD
+https://lowa304-bot.github.io/UkraineOTT/3/mono.m3u8
 #EXTINF:0, ОЦЕ
+https://lowa304-bot.github.io/UkraineOTT/4/mono.m3u8
 #EXTINF:0, К1
+https://lowa304-bot.github.io/UkraineOTT/5/mono.m3u8
 #EXTINF:0, К2
+https://lowa304-bot.github.io/UkraineOTT/6/mono.m3u8
 #EXTINF:0, Перший HD
+https://lowa304-bot.github.io/UkraineOTT/7/mono.m3u8
 #EXTINF:0, Новий канал
+https://lowa304-bot.github.io/UkraineOTT/8/mono.m3u8
 #EXTINF:0, ICTV
+https://lowa304-bot.github.io/UkraineOTT/9/mono.m3u8
 #EXTINF:0, 24 Канал HD
+https://lowa304-bot.github.io/UkraineOTT/10/mono.m3u8
 #EXTINF:0, 24 Канал SD
+https://lowa304-bot.github.io/UkraineOTT/11/mono.m3u8
 #EXTINF:0, Мега
+https://lowa304-bot.github.io/UkraineOTT/12/mono.m3u8
 #EXTINF:0, ICTV2
+https://lowa304-bot.github.io/UkraineOTT/13/mono.m3u8
 #EXTINF:0, 1+1 International
+https://lowa304-bot.github.io/UkraineOTT/14/mono.m3u8
 #EXTINF:0, 
 #EXTINF:0,
 #EXTINF:0,
@@ -68,7 +82,8 @@
 #EXTINF:0,
 #EXTINF:0,
 #EXTINF:0,
-#EXTINF:0,
+#EXTINF:0, Академия (Одеса)
+https://lowa304-bot.github.io/UkraineOTT/71/mono.m3u8
 #EXTINF:0,
 #EXTINF:0,
 #EXTINF:0,
