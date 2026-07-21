@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, 1+1 HD
+#EXTINF:0, 1+1 Марафон
 https://lowa304-bot.github.io/UkraineOTT/1/mono.m3u8
 #EXTINF:0, 2+2 HD
 https://lowa304-bot.github.io/UkraineOTT/2/mono.m3u8
@@ -7,6 +7,16 @@ https://lowa304-bot.github.io/UkraineOTT/2/mono.m3u8
 https://lowa304-bot.github.io/UkraineOTT/3/mono.m3u8
 #EXTINF:0, СТБ
 https://lowa304-bot.github.io/UkraineOTT/4/mono.m3u8
+#EXTINF:0, Перший HD
+https://lowa304-bot.github.io/UkraineOTT/3/mono.m3u8
+#EXTINF:0, Суспільне Культкра
+
+#EXTINF:0, Дім
+
+#EXTINF:0, 
+
+#EXTINF:0, 
+
 #EXTINF:0, Академия (Одеса)
 https://lowa304-bot.github.io/UkraineOTT/71/mono.m3u8
 #EXTINF:0, UA: Перший HD
